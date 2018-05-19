@@ -1,0 +1,1 @@
+svg-from-illustrator-loader
