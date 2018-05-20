@@ -1,0 +1,37 @@
+{
+  "name": "svg-from-illustrator-loader",
+  "version": "0.1.0",
+  "description": "A loader for webpack that makes it easy to use SVG from Illustrator",
+  "author": {
+    "name": "danuel",
+    "email": "public.danuel@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OnLiU211/svg-from-illustrator-loader.git"
+  },
+  "bugs": {
+    "url": "http://github.com/OnLiU211/svg-from-illustrator-loader/issues"
+  },
+  "main": "./src/index.js",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "engines": {
+    "node": ">= 10.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "webpack",
+    "loader",
+    "illustrator",
+    "adobe"
+  ]
+}
