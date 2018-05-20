@@ -1,6 +1,6 @@
 {
   "name": "svg-from-illustrator-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A loader for webpack that makes it easy to use SVG from Illustrator",
   "author": {
     "name": "danuel",

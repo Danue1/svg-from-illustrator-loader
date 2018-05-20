@@ -45,7 +45,7 @@ module.exports = function (source) {
   }
 
   exportStyle =
-    (exportStyle === 'default') ? '.default' :
-    (exportStyle === 'name') ? '.' + iconName : ''
+    (exportStyle === 'none') ? '' :
+    (exportStyle === 'name') ? '.' + iconName : '.default'
   return 'module.exports' + exportStyle + ' = ' + source
 }
